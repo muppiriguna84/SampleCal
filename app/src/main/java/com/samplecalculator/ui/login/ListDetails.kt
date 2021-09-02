@@ -9,5 +9,9 @@ class ListDetails : Activity() {
         super.onCreate(savedInstanceState)
         Log.d("","LoginActivity  11")
         Log.d("","LoginActivity 222")
+
+        Log.d("","LoginActivity  11")
+        Log.d("","LoginActivity 222")
+
     }
 }
