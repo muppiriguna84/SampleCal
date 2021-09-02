@@ -1,0 +1,29 @@
+diff --git a/app/src/main/java/com/samplecalculator/ui/login/ListDetails.kt b/app/src/main/java/com/samplecalculator/ui/login/ListDetails.kt
+index 8497ef0..383413d 100644
+--- a/app/src/main/java/com/samplecalculator/ui/login/ListDetails.kt
++++ b/app/src/main/java/com/samplecalculator/ui/login/ListDetails.kt
+@@ -7,10 +7,8 @@ import android.util.Log
+ class ListDetails : Activity() {
+     override fun onCreate(savedInstanceState: Bundle?) {
+         super.onCreate(savedInstanceState)
+-        Log.d("","LoginActivity  11")
+-        Log.d("","LoginActivity 222")
+ 
+-        Log.d("","LoginActivity  11")
++        Log.d("","LoginActivity  11111111111111111")
+         Log.d("","LoginActivity 222")
+ 
+     }
+diff --git a/app/src/main/java/com/samplecalculator/ui/login/LoginActivity.kt b/app/src/main/java/com/samplecalculator/ui/login/LoginActivity.kt
+index 2cf9e68..8eec35c 100644
+--- a/app/src/main/java/com/samplecalculator/ui/login/LoginActivity.kt
++++ b/app/src/main/java/com/samplecalculator/ui/login/LoginActivity.kt
+@@ -36,7 +36,7 @@ class LoginActivity : AppCompatActivity() {
+         Log.d("","LoginActivity  11")
+         Log.d("","LoginActivity 222")
+ 
+-        
++
+         val username = binding.username
+         val password = binding.password
+         val login = binding.login

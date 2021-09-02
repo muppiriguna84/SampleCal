@@ -29,6 +29,14 @@ class LoginActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         Log.d("","LoginActivity")
+        Log.d("","LoginActivity  11")
+        Log.d("","LoginActivity 222")
+
+
+        Log.d("","LoginActivity  11")
+        Log.d("","LoginActivity 222")
+
+
         val username = binding.username
         val password = binding.password
         val login = binding.login
